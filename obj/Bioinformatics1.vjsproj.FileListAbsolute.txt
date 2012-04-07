@@ -1,0 +1,17 @@
+\\cswin2k3\USERS\jzmoore\My Documents\Visual Studio 2005\Projects\Bioinformatics1\obj\x86\Debug\Bioinformatics1.exe
+\\cswin2k3\USERS\jzmoore\My Documents\Visual Studio 2005\Projects\Bioinformatics1\obj\x86\Debug\Bioinformatics1.pdb
+\\cswin2k3\USERS\jzmoore\My Documents\Visual Studio 2005\Projects\Bioinformatics1\bin\Debug\Bioinformatics1.exe
+\\cswin2k3\USERS\jzmoore\My Documents\Visual Studio 2005\Projects\Bioinformatics1\bin\Debug\Bioinformatics1.pdb
+\\cswin2k3\USERS\jzmoore\My Documents\Visual Studio 2005\Projects\Bioinformatics1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Documents From HD\Programming\Projects\Intro to Bioinformatics\Bioinformatics1\obj\x86\Debug\Bioinformatics1.exe
+E:\Documents From HD\Programming\Projects\Intro to Bioinformatics\Bioinformatics1\obj\x86\Debug\Bioinformatics1.pdb
+E:\Documents From HD\Programming\Projects\Intro to Bioinformatics\Bioinformatics1\bin\Debug\Bioinformatics1.exe
+E:\Documents From HD\Programming\Projects\Intro to Bioinformatics\Bioinformatics1\bin\Debug\Bioinformatics1.pdb
+E:\Documents From HD\Programming\Projects\Intro to Bioinformatics\Bioinformatics1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\workhorse\Documents\Visual Studio 2005\Projects\Bioinformatics1\obj\x86\Debug\Bioinformatics1.exe
+C:\Users\workhorse\Documents\Visual Studio 2005\Projects\Bioinformatics1\obj\x86\Debug\Bioinformatics1.pdb
+C:\Users\workhorse\Documents\Visual Studio 2005\Projects\Bioinformatics1\bin\Debug\Bioinformatics1.exe
+C:\Users\workhorse\Documents\Visual Studio 2005\Projects\Bioinformatics1\bin\Debug\Bioinformatics1.pdb
+C:\Users\workhorse\Documents\Visual Studio 2005\Projects\Bioinformatics1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\workhorse\Documents\Visual Studio 2005\Projects\Genetic String Matcher\obj\x86\Debug\Bioinformatics1.exe
+C:\Users\workhorse\Documents\Visual Studio 2005\Projects\Genetic String Matcher\obj\x86\Debug\Bioinformatics1.pdb
